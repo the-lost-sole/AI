@@ -1,1 +1,1 @@
-# AI
+# AI-mini-project
